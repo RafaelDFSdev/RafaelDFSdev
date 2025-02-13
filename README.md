@@ -1,6 +1,12 @@
 ## Olá, sou Rafael Santos 😊
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDFSdev&layout=donut)](https://github.com/RafaelDFSdev/github-readme-stats)
+
+  <div>
+    <p>  
+      <img src="https://github-readme-stats.vercel.app/api?username=RafaelDFSdev"/>
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDFSdev&layout=donut"/>
+    </p>
+  </div>
+   
 
   - Noções de linguagem C, HTML5, CSS3, JavaScript, SQL, Python, PHP, VUE;
 - Noções de Cloud (AWS);
