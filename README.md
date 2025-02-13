@@ -2,7 +2,7 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelDFSdev)](https://github.com/RafaelDFSdev/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDFSdev&layout=donut)](https://github.com/RafaelDFSdev/github-readme-stats)
 
   - Noções de linguagem C, HTML5, CSS3, JavaScript, SQL, Python, PHP, VUE;
 - Noções de Cloud (AWS);
