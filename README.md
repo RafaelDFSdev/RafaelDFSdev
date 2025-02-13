@@ -5,7 +5,9 @@
   - Noções de linguagem C, HTML5, CSS3, JavaScript, SQL, Python, PHP, VUE;
 - Noções de Cloud (AWS);
 - Versionamento com Git e Github
+  
 Ferramentas de desenvolvimento: Visual Studio Code;
+
 Metodologias de desenvolvimento: SCRUM;
 
 
